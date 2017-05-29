@@ -7,3 +7,8 @@ I've been editing the `index.md`  and `style.css` files a lot lately to accommod
 Since 2016 the CMS in use has been [sassolino](https://github.com/pwrstudio/sassolino).
   
  ![work-in-progress-may-2017](ss-pdpd.png)
+ 
+ ## to-do
+ 
+ - preview image size on main index page - make smaller or eliminate?
+ - consider linking pictures to separate full archive page
