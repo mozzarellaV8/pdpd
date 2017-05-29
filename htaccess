@@ -1,0 +1,7 @@
+RewriteEngine On
+
+## if not installed in root folder, change to: RewriteBase /subfolder/
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ index.php?dir=$1
