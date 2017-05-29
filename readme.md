@@ -10,5 +10,5 @@ Since 2016 the CMS in use has been [sassolino](https://github.com/pwrstudio/sass
  
  ## to-do
  
- - preview image size on main index page - make smaller or eliminate?
+ - preview image size on main index page - make smaller or eliminate? can this be done in the `index.php` file? 
  - consider linking pictures to separate full archive page
