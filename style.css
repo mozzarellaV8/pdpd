@@ -1,24 +1,27 @@
 body {
     background: #FFF;
     font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
+    font-size: 56px;
     line-height: 1.2em;
     margin: 0;
 }
 
-h1 {font-family: 'Varela Round', sans-serif;
+h1 {
+    font-family: 'Varela Round', sans-serif;
     font-weight: normal;
     font-size: 28px; 
     color: #d73b63 ;
 }
 
-h2 {font-family: 'Open Sans', sans-serif;
+h2 {
+    font-family: 'Open Sans', sans-serif;
     font-size: 26px;
     font-weight: normal;
     color: #e8d18e;
 }
 
-h4 {font-family: 'Open Sans', sans-serif;
+h4 {
+    font-family: 'Open Sans', sans-serif;
     font-size: 24px;
     font-weight: normal;
     color: #e8d18e;
@@ -36,13 +39,13 @@ a {
 }
 
 a:hover {
-    color: #d73b63;
+    color: #e8d18e;
     text-decoration:underline;
 
 }
 
 a:active {
-    color: #e8d18e;
+    color: #d73b63;
 }
 
 a:visited {
