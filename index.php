@@ -26,7 +26,7 @@ echo '<meta property="og:url" content="http://pdpd.org" />';
 echo '<meta property="og:image" content="http://pi.mozzarella.website/pdpd/ff.jpg" />';
 echo '<meta property="og:description" content="Pete Deevakul" />'; // opengraph end
 echo '<link rel="stylesheet" type="text/css" href="style.css">';
-echo '<link href="https://fonts.googleapis.com/css?family=Lora|Open+Sans|Varela+Round" rel="stylesheet">'; // google fonts
+echo '<link href="https://fonts.googleapis.com/css?family=Lora|EB+Garamond|Open+Sans|Varela+Round" rel="stylesheet">'; // google fonts
 echo '<link rel="apple-touch-icon" sizes="180x180" href="/00-apple-touch-icon.png">'; // favicon start
 echo '<link rel="icon" type="image/png" href="/00-favicon-32x32.png" sizes="32x32">';
 echo '<link rel="icon" type="image/png" href="/00-favicon-16x16.png" sizes="16x16">';
