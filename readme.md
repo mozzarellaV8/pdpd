@@ -12,3 +12,16 @@ Since 2016 the CMS in use has been [sassolino](https://github.com/pwrstudio/sass
  
  - preview image size on main index page - make smaller or eliminate? can this be done in the `index.php` file? 
  - consider linking pictures to separate full archive page
+ - complete a better [taxonomy-based glyph design](https://ai2-s2-pdfs.s3.amazonaws.com/9f8f/ef6db6b012c227d79d185fec1ab21461d71b.pdf) for organizing projects. Why? This provides an opportunity to hopefully uncover latent connections between projects.
+ 
+Here's a sketch for an organizational taxonomy of projects and general production:
+
+| glyph  | type                     |
+| ------ | -------------------------|
+|        |                          |
+| ❏      | pictures by project      |   
+| ❐      | pictures by date         |
+| ධ      | things made in the studio |
+| ◯      | data visualizations      |
+| ♺      | mozzarella.website       |  
+| ✎      | writing & notes          |
