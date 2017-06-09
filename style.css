@@ -68,7 +68,7 @@ blockquote {
 }
 
 img, video, audio, iframe {
-    max-height: 200px;   
+    max-width: 800px;   
 }
 
 #main_container {
