@@ -117,6 +117,7 @@ else //If not frontpage
           }
       }
   }
+echo '<div id="index"><a href=".">⤎</a></div>'; // link back to index 
 echo '</div>'; // Closing #main_container
 echo '</body>';
 echo '</html>';
