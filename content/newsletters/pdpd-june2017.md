@@ -67,7 +67,7 @@ S had been having some trouble with PTSD and had to take off back to a rural loc
 - Kate Spade - SU17 Core Handbag Campaign - image licensed to Virgin Australia Duty-Free In-Flight Magazine
 - Kate Spade - FA17 Core Handbag Campaign shoot
 
-Sad to see Lucky Peach go, but glad they printed my bio on the Contributors page. Kate Spade continues to be a wonderful client, based largely on the strength of their art directors and attention to detail on all levels of production. Diversifying clientele would be a wise business decision, but would come at the expense of cutting back on hobbies. 
+Sad to see Lucky Peach go, but glad they printed my bio on the Contributors page. Kate Spade continues to be a wonderful client, based largely on the strength of their art directors, strong stylists, and attention to detail on all levels of production. Diversifying clientele would be a wise business decision, but would come at the expense of cutting back on hobbies. 
 
 
 ## Hobbies
