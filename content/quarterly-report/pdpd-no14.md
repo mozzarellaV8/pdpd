@@ -1,5 +1,5 @@
 
-# pdpd quarterly report SU17
+# pdpd quarterly report Summer 2017
 
 Hi it's Pete. Was on a photoshoot recently making fun of someone's monthly newsletter when Emily said 'Why don't you make a newsletter?'. I was somewhat justified ridiculing this photographer, though - his newsletter was riddled with very basic typos and he didn't really have much of an eye. 
 
@@ -9,11 +9,9 @@ Hi it's Pete. Was on a photoshoot recently making fun of someone's monthly newsl
 - [data-vis](#data-vis)
 - [Standing Rockers](#standing-rockers)
 - [Commercial Photography](#commercial-photography)
-- [Hobbies]()
+- [Hobbies](#hobbies)
 
-<a name="mozzsite">
 # mozz.site
-</a>
 
 My independent publishing endeavor [_mozzarella.website_](http://mozz.site) participated in #BABZ2017 (formerly the Bushwick Art Book and Zine Fair). This year it was held at Knockdown Center in Maspeth Queens. We were worried we'd lose some foot traffic not being in Bushwick, but financial returns and our general busy-ness all weekened suggested otherwise. It's really impressive how Sonel expanded BABZ from ~30 vendors to over 100, but still maintained an intimate, open atmosphere across the fair. 
 
@@ -60,11 +58,14 @@ S had been having some trouble with PTSD and had to take off back to a rural loc
 
 # Commercial Photography
 
+- _client_ - _project_
 - Kate Spade - SU17 Core Handbag Campaign shoot
 - Lucky Peach - Spring 2017 - Fried Chicken of the World
 - Kate Spade - FA17 Wholesale Licensing shoot
-- Kate Spade - SU17 Core Handbag Campaign - image licensed to Virgin Australia Duty-Free In-Flight Magazine
+- Kate Spade - SU17 Core Handbag Campaign - *image licensed to Virgin Australia Duty-Free In-Flight Magazine*
 - Kate Spade - FA17 Core Handbag Campaign shoot
+- Thrillist - DiGiornio Pizza advertorial
+- Judith Barry - installation photographs for show at Goethe Insititute
 
 Sad to see Lucky Peach go, but glad they printed my bio on the Contributors page. Kate Spade continues to be a wonderful client, based largely on the strength of their art directors, strong stylists, and attention to detail on all levels of production. Diversifying clientele would be a wise business decision, but would come at the expense of cutting back on hobbies. 
 
