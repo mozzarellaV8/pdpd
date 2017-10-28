@@ -3,15 +3,17 @@
 
 Hi it's Pete. Was on a photoshoot recently making fun of someone's monthly newsletter when Emily said 'Why don't you make a newsletter?'. I was somewhat justified ridiculing this photographer, though - his newsletter was riddled with very basic typos and he didn't really have much of an eye. 
 
-- [mozz.site](#mozz.site)
+- [mozz.site](#mozzsite)
 - [Franchise Magazine issue 3](#franchise-magazine-issue-3)
-- [pdpd.org](#pdpd.org)
+- [pdpd.org](#pdpdorg)
 - [data-vis](#data-vis)
 - [Standing Rockers](#standing-rockers)
 - [Commercial Photography](#commercial-photography)
 - [Hobbies]()
 
+<a name="mozzsite">
 # mozz.site
+</a>
 
 My independent publishing endeavor [_mozzarella.website_](http://mozz.site) participated in #BABZ2017 (formerly the Bushwick Art Book and Zine Fair). This year it was held at Knockdown Center in Maspeth Queens. We were worried we'd lose some foot traffic not being in Bushwick, but financial returns and our general busy-ness all weekened suggested otherwise. It's really impressive how Sonel expanded BABZ from ~30 vendors to over 100, but still maintained an intimate, open atmosphere across the fair. 
 
